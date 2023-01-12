@@ -1,6 +1,4 @@
-![Screenshot (37)](https://user-images.githubusercontent.com/72547309/212027386-3f325e87-7ff9-4590-84be-a06847add92b.png)
-![Screenshot (37)](https://user-images.githubusercontent.com/72547309/212028049-0bfb6629-74da-4481-8b0f-8796a016f2c3.png)
-![Screenshot (37)](https://user-images.githubusercontent.com/72547309/212035376-c00771bd-768f-44c0-9673-6cf9fff1dee4.png)
+
 # Revenue-Dashboard
 DTLM Retail Sales Dashboard
 
@@ -12,3 +10,5 @@ The aim of this project is to discover the movement and the current state of rev
 Data model was carried out, where i created relationship bettween the primary and foreign keys. Pivot charts was created through my vivot tables. I insert timeline and slicer to make the dashboard sliceable'
 
 some of the insights that was establisbed are; 2 top revenue products in January, sales team in the month of March for decorative producct, relationship between revenue, population and median income of state.
+
+![Screenshot (37)](https://user-images.githubusercontent.com/72547309/212035376-c00771bd-768f-44c0-9673-6cf9fff1dee4.png)
